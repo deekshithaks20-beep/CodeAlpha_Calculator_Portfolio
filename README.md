@@ -1,2 +1,2 @@
-# CodeAlpha-Internship
-CodeAlpha Internship Tasks – Frontend Development
+# CodeAlpha_Calculator_Portfolio
+CodeAlpha Internship - Calculator and Portfolio
